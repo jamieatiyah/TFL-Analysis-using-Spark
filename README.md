@@ -1,2 +1,2 @@
 # TFL-Analysis-using-Spark
-This report will use Spark 3.3.2 (Spark 2023a) to test two hypotheses which relate to bike rentals.
+This report will use Spark 3.3.2 (Spark 2023a) to test two hypotheses which relate to bike rentals. The first hypothesis is that in 2014 people ride for longer in autumn than in spring. The second hypothesis is that more people will rent a bike whilst traffic is low. Both hypothesis will utilise the transport for London (tfl) cycle hire usage stats for 2014 (London 2015). The second hypothesis will also utilise the road traffic statistics relating to London from the Department for Transport (dft) (Transport 2015).
