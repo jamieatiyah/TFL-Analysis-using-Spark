@@ -27,7 +27,7 @@ This project employs Apache Spark 3.3.2 (Spark 2023a) to test two hypotheses rel
 
 ## Project Highlights
 
-- Utilized Apache Spark 3.3.2 for data analysis and hypothesis testing.
+- Utilised Apache Spark 3.3.2 for data analysis and hypothesis testing.
 - Tested two hypotheses related to bike rentals in London in 2014.
 - Found statistically significant differences in bike ride durations between spring and autumn.
 - Explored the relationship between bike rentals and traffic volume.
@@ -36,4 +36,3 @@ This project employs Apache Spark 3.3.2 (Spark 2023a) to test two hypotheses rel
 ## Conclusion
 
 The analysis of bike rentals in London provided valuable insights. While there is evidence of longer bike ride durations in spring compared to autumn, the relationship between bike rentals and traffic volume remains inconclusive. Further research, incorporating geographical data, may offer a more accurate representation of traffic patterns and their impact on bike rentals.
-
